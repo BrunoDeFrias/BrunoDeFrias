@@ -2,7 +2,7 @@
 
 ![Me in my shop](https://media.licdn.com/dms/image/D5616AQEcS52fmt9Ahw/profile-displaybackgroundimage-shrink_350_1400/0/1712823314688?e=1721865600&v=beta&t=w29MS-tlAz37iwQmQHx77y1gSkO2yOzag8abGMvFvOY)
 
-## <img src="star-wars-stormtrooper-helmet-sticker.png" alt="Stormtrooper" height="20px" width="20px"> About Me <img src="star-wars-stormtrooper-helmet-sticker.png" alt="Stormtrooper" height="20px" width="20px">
+## About Me 🚀
 
 From biodynamic vegetable gardener :carrot: (2009) to artisan flower shop owner :tulip: (2015) to **Web Dev Junior** :computer: (2024), there is indeed a common point:
 
@@ -43,13 +43,11 @@ I started my latest professional retraining with the bootcamp ![Le Wagon](https:
 I know, I know, I'm not a senior, I'm a very **excited and overmotivated** junior guy looking for my first experience in a nice tech project.
 ### Soooo...  
 <br>
-<div align="center" style="overflow: auto;">
-    <img src="https://media1.tenor.com/m/gWY3kXb_Vn0AAAAC/darth-vader-vader.gif" alt="Vador" height="186" />
-    <img src="https://media1.tenor.com/m/I6iGTm0JKCAAAAAC/star-wars-rogue-one.gif" alt="Krennic" width="450" />
-    <img src="https://media1.tenor.com/m/0SUomFMYna8AAAAC/darth-vader-vader.gif" alt="Vador" height="186" />
+<div align="center">    
+    <img src="https://media1.tenor.com/m/I6iGTm0JKCAAAAAC/star-wars-rogue-one.gif" alt="Krennic" width="800" />
 </div>
 
-##### And may the dev force be with you !
+---
 
 
 
