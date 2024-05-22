@@ -44,9 +44,9 @@ I know, I know, I'm not a senior, I'm a very **excited and overmotivated** junio
 ### Soooo...  
 <br>
 <div align="center" style="overflow: auto;">
-    <img src="https://media1.tenor.com/m/gWY3kXb_Vn0AAAAC/darth-vader-vader.gif" alt="Vador" height="219" />
-    <img src="https://media1.tenor.com/m/I6iGTm0JKCAAAAAC/star-wars-rogue-one.gif" alt="Krennic" width="530" />
-    <img src="https://media1.tenor.com/m/0SUomFMYna8AAAAC/darth-vader-vader.gif" alt="Vador" height="219" />
+    <img src="https://media1.tenor.com/m/gWY3kXb_Vn0AAAAC/darth-vader-vader.gif" alt="Vador" height="207" />
+    <img src="https://media1.tenor.com/m/I6iGTm0JKCAAAAAC/star-wars-rogue-one.gif" alt="Krennic" width="500" />
+    <img src="https://media1.tenor.com/m/0SUomFMYna8AAAAC/darth-vader-vader.gif" alt="Vador" height="207" />
 </div>
 
 ###### And may the dev force be with you !
