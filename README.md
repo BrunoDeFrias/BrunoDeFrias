@@ -44,5 +44,5 @@ I know, I know, I'm not a senior, I'm a very **excited and overmotivated** junio
 ### Soooo...  
 <br>
 <div align="center">    
-    <img src="https://media1.tenor.com/m/I6iGTm0JKCAAAAAC/star-wars-rogue-one.gif" alt="Krennic" width="800" />
+    <img src="https://media1.tenor.com/m/I6iGTm0JKCAAAAAC/star-wars-rogue-one.gif" alt="Krennic" width="600" />
 </div>
