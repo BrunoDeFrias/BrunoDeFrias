@@ -10,7 +10,7 @@ From biodynamic vegetable gardener :carrot: (2009) to artisan flower shop owner 
 
 And that's why I'm so excited :smiley: now to be a developer - with tech, `there is always something to learn!` - and not to rest on my achievements.  
 <br>
-I started my latest professional retraining with the bootcamp ![Le Wagon](https://www.lewagon.com/fr/web-development-course).
+I started my latest professional retraining with the bootcamp [Le Wagon](https://www.lewagon.com/fr/web-development-course).
 
 - **🌱 What we start learned there**:
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=black)
