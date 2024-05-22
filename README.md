@@ -2,7 +2,7 @@
 
 ![Me in my shop](https://media.licdn.com/dms/image/D5616AQEcS52fmt9Ahw/profile-displaybackgroundimage-shrink_350_1400/0/1712823314688?e=1721865600&v=beta&t=w29MS-tlAz37iwQmQHx77y1gSkO2yOzag8abGMvFvOY)
 
-## About Me 🚀
+## <img src="star-wars-stormtrooper-helmet-sticker.png" alt="Stormtrooper" height="20px" width="20px"> About Me <img src="star-wars-stormtrooper-helmet-sticker.png" alt="Stormtrooper" height="20px" width="20px">
 
 From biodynamic vegetable gardener :carrot: (2009) to artisan flower shop owner :tulip: (2015) to **Web Dev Junior** :computer: (2024), there is indeed a common point:
 
@@ -36,7 +36,7 @@ I started my latest professional retraining with the bootcamp ![Le Wagon](https:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)  
     _for friends's showcase projects and **the next :mag_right: job opportunity**_
-- **:technologist: Long-term goal** : Cybersecurity, with an interest in pentesting and/or security analysis :sunglasses:
+- **:technologist: Long-term goal** : **Cybersecurity**, with an interest in pentesting and/or security analysis :sunglasses:
 - **🌍 Languages** : **French, English, Portuguese, and learning Japanese; Music and programming** :wink: 
 - **📫 How to reach me** : **www.linkedin.com/in/bruno-de-frias**
 
@@ -50,3 +50,6 @@ I know, I know, I'm not a senior, I'm a very **excited and overmotivated** junio
 </div>
 
 ###### And may the dev force be with you !
+
+
+
