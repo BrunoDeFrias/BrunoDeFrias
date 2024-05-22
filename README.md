@@ -40,7 +40,7 @@ I started my latest professional retraining with the bootcamp ![Le Wagon](https:
 - **🌍 Languages** : **French, English, Portuguese, and learning Japanese; Music and programming** :wink: 
 - **📫 How to reach me** : **www.linkedin.com/in/bruno-de-frias**
 
-I know, I know, I'm not a senior, I'm a very **excited and overmotivated** junior guy looking for my first experience in a nice tech project.
+I know, I know, I'm not a senior, I'm a very **excited and overmotivated** junior guy looking for my first job experience in a nice tech project.
 ### Soooo...  
 <br>
 <div align="center">    
