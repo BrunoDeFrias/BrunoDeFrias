@@ -4,11 +4,11 @@
 
 ## About Me 🚀
 
-From biodynamic vegetable gardener :carrot: (2009) to artisan flower shop owner :tulip: (2015) to **Web Dev Junior** :computer: (2024), there is indeed a common point:
+From biodynamic vegetable gardener :carrot: (2009) to artisan flower shop owner :tulip: (2015) to **Web Dev Junior** :computer: (2024), my journey has been diverse yet interconnected by one common thread: 
 
-`Never stop learning!` :blush:. 
+`a relentless pursuit of knowledge!` 😊
 
-And that's why I'm so excited :smiley: now to be a developer - with tech, `there is always something to learn!` - and not to rest on my achievements.  
+And that's why I'm so excited :smiley: now to be a developer - with tech, `there is always something to learn!` - fueled by a deep passion for cybersecurity 🛡️.  
 <br>
 I started my latest professional retraining with the bootcamp [Le Wagon](https://www.lewagon.com/fr/web-development-course).  
 
@@ -33,15 +33,14 @@ I started my latest professional retraining with the bootcamp [Le Wagon](https:/
 
 - **🔭 What language I am focusing on** :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- **🔭 What I want to explore** :
+- **🔭 What I want to explore in back-end** :
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-`Currently hunting for back-end roles`
-- **:technologist: Long-term goal** : **Cybersecurity**, with an interest in pentesting and/or security analysis :sunglasses:
+- **:technologist: short-term goal** : **Cybersecurity**, with an interest in pentesting and/or security analysis :sunglasses:
 - **🌍 Languages** : **French, English, Portuguese, and learning Japanese; Music and programming** :wink: 
 - **📫 How to reach me** : **www.linkedin.com/in/bruno-de-frias**
 
-I know, I know, I'm not a senior, I'm a very **excited and overmotivated** junior guy looking for my first job experience in a nice tech project.
+I know, I know, I'm not a senior, I'm a very **excited and overmotivated** junior guy looking for my first job experience in a nice tech and/or cybersecurity project.
 ### Soooo...  
 <br>
 <div align="center">    
