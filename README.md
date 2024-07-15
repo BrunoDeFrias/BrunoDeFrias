@@ -31,12 +31,10 @@ I started my latest professional retraining with the bootcamp [Le Wagon](https:/
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Terminal](https://img.shields.io/badge/-Terminal-000000?style=flat-square&logo=windows-terminal&logoColor=white)
 
-- **🔭 What language I am focusing on** :
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- **🔭 What I want to explore in back-end** :
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-- **:technologist: short-term goal** : **Cybersecurity**, with an interest in pentesting and/or security analysis :sunglasses:
+- **🔭 Languages I want to explore** :
+    * ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) : `I want to continue enhancing my web development skills with this language.`  
+    * ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) : `Widely used in cybersecurity for tasks like automation scripts and vulnerability scanning tools, with Django and Flask enhancing my web development skills.`
+- **:technologist: short-term goal** : **Cybersecurity**, with an interest in pentesting and/or analysis SOC :sunglasses:
 - **🌍 Languages** : **French, English, Portuguese, and learning Japanese; Music and programming** :wink: 
 - **📫 How to reach me** : **www.linkedin.com/in/bruno-de-frias**
 
