@@ -1,6 +1,6 @@
 # Hi, I’m Bruno 👋
 
-![Me in my shop](https://media.licdn.com/dms/image/D5616AQEcS52fmt9Ahw/profile-displaybackgroundimage-shrink_350_1400/0/1712823314688?e=1721865600&v=beta&t=w29MS-tlAz37iwQmQHx77y1gSkO2yOzag8abGMvFvOY)
+![Me in my shop](https://media.licdn.com/dms/image/v2/D5616AQEcS52fmt9Ahw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712823314688?e=1736380800&v=beta&t=7Kuj7r0jUHeraR73N5vzGtZdhL4cp6Cjz7ujW8G5Iuc)
 
 ## About Me 🚀
 
