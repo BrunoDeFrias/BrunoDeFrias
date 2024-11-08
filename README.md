@@ -8,7 +8,7 @@ From biodynamic vegetable gardener :carrot: (2009) to artisan flower shop owner 
 
 `a relentless pursuit of knowledge!` 😊
 
-And that's why I'm so excited :smiley: now to be a developer - with tech, `there is always something to learn!` - fueled by a deep passion for cybersecurity 🛡️.  
+And that's why I'm so excited :smiley: now to be a developer - with tech, `there is always something to learn!` - fueled by a deep passion for  cybersecurity 🛡️, networks 🌐 and development ⚙️,.  
 <br>
 I started my latest professional retraining with the bootcamp [Le Wagon](https://www.lewagon.com/fr/web-development-course).  
 
@@ -33,7 +33,11 @@ I started my latest professional retraining with the bootcamp [Le Wagon](https:/
 
 - **🔭 I want to explore** :  
     * ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) : `Widely used in cybersecurity for tasks like automation scripts and vulnerability scanning tools, with Django and Flask enhancing my web development skills.`
-- **:technologist: short-term goal** : **Cybersecurity**, with an interest in pentesting and/or analysis SOC :sunglasses:
+    * ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white) : `I enjoy using the terminal for efficiency and automation, and I believe mastering Bash and Linux is essential for system administration and cybersecurity tasks.`
+    * ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-0046FF?style=flat-square&logo=internet-explorer&logoColor=white) : `👨‍🏫📖 Studying TCP/IP and the OSI model to understand network communication, a crucial foundation for cybersecurity, including threat detection and mitigation strategies.`
+- 🧑‍💻 **Short-term goal** : Develop my skills in *systems administration*, *networking*, and *development*. Open to a position in systems administration or Python/Full Stack development to continue evolving in these fields while strengthening my technical skills.
+- 🎯 **Long-term goal** : Specialize in *cybersecurity*, with a focus on **SOC analysis, through an OpenClassrooms alternance 💼**. Ultimately, my goal is to combine my skills in development, networking, and cybersecurity.
+- 💼 **Career interests** : Full Stack Developer, Python Developer, Systems Administrator, SOC Analyst, DevSecOps.
 - **🌍 Languages** : **French, English, Portuguese, and learning Japanese; Music and programming** :wink: 
 - **📫 How to reach me** : **www.linkedin.com/in/bruno-de-frias**
 
