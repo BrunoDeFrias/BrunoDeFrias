@@ -1,7 +1,5 @@
 # Hi, I’m Bruno 👋
 
-![Me in my shop](https://media.licdn.com/dms/image/v2/D5616AQEcS52fmt9Ahw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712823314688?e=1736380800&v=beta&t=7Kuj7r0jUHeraR73N5vzGtZdhL4cp6Cjz7ujW8G5Iuc)
-
 ## About Me 🚀
 
 From biodynamic vegetable gardener :carrot: (2009) to artisan flower shop owner :tulip: (2015) to **Systems Administrator** 🔧 (2024), my journey has been diverse yet interconnected by one common thread: 
